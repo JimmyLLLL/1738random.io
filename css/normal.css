@@ -1,0 +1,52 @@
+/*
+* @Author: JimmyLLLL
+* @Date:   2018-05-23 20:08:01
+* @Last Modified by:   JimmyLLLL
+* @Last Modified time: 2018-05-23 20:58:38
+*/
+*{
+padding: 0px;
+margin:0px;
+}
+body
+{
+	margin:0 auto; text-align:center;
+}
+
+#main
+{
+	width: 1000px;
+	height: 1800px;
+	margin:0 auto;
+}
+#header
+{
+	position: relative;
+	top: 100px;
+	font-size: 45px;
+
+}
+#main-p
+{
+   position: relative;
+   top: 120px;
+}
+#main-input
+{
+	position: relative;
+	top: 130px;
+}
+#count-p
+{
+	position: relative;
+	top: 135px;
+	color: red;
+	display: none;
+}
+#ing
+{
+	display: none;
+	position: relative;
+	top: 140px;
+
+}
